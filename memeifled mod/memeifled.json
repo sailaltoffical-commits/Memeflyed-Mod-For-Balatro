@@ -1,0 +1,17 @@
+{
+  "id": "memeifled",
+  "name": "Meme-ifled",
+  "author": [
+    "TheDukeOfInfo"
+  ],
+  "description": "Wanted a Mod just for memes? I got you! This mod so far has 14 jokers, 1 enhancement, 2 consumables, 1 voucher, 1 edition, 2 decks, and 1 seal\n\nGithub (for updates):\nDiscord (for suggestions):",
+  "prefix": "memeifled",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "666665",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
